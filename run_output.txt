@@ -87,6 +87,5 @@ poisson_clt_diagnostics:
 - q5_normal_large_beta: [-2.271572956101412, 1.0730343389156098]
 - q5_exponential_beta: [2.109389861341001, -0.27134881568802033]
 
-JSON export skipped. Set SAVE_JSON = True if you also want a JSON copy.
 
 
