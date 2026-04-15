@@ -2,9 +2,9 @@
 
 ## Project perspective
 
-This repository works best as a **statistics computing consolidation project**. Instead of presenting separate homework answers, it presents a unified Python workflow that moves across random generation, dependence analysis, regression, asymptotic simulation, and numerical estimation.
+This repository works best as a **statistics computing consolidation project**. It presents a unified Python workflow that moves across random generation, dependence analysis, regression, asymptotic simulation, and numerical estimation.
 
-The central value of the folder is not only that it reproduces previous R-based work, but that it reorganizes that work into a clearer computational narrative: define a statistical question, implement the method, inspect the visual and numerical output, and summarize the main finding.
+The central value of the folder is that it reorganizes the work into a clearer computational narrative: define a statistical question, implement the method, inspect the visual and numerical output, and summarize the main finding.
 
 ## Main conclusions by block
 
@@ -31,7 +31,3 @@ The Beta-model simulation is useful because it compares two estimators using sev
 ### Linear predictor versus nonlinear truth
 
 The final block highlights a concept that is easy to miss in theory alone: the quality of the best linear predictor depends not only on the shape of the conditional expectation function, but also on the distribution of the explanatory variable. A linear approximation can look strong where the data are concentrated and weaker elsewhere.
-
-## Final takeaway
-
-As a GitHub folder, this project is strongest when presented as a **statistics computing consolidation project** rather than as isolated homework answers. It brings together simulation, estimation, regression, asymptotic reasoning, and visualization in a single reproducible Python workflow, with enough structure that a reader can understand the purpose, method, and result of each section without needing the original assignments.
