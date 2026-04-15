@@ -1,6 +1,8 @@
 # Statistics Computing Consolidation Project
 
-This repository is organized as a **single statistics computing project** rather than as a list of isolated homework files. The goal is to show how simulation, estimation, regression, asymptotic reasoning, and visualization can be integrated into one reproducible Python workflow.
+Hello there,
+
+This repository is organized as a **single statistics computing project**. The goal is to show how simulation, estimation, regression, asymptotic reasoning, and visualization can be integrated into one reproducible Python workflow.
 
 ## Project idea
 
@@ -74,9 +76,9 @@ When executed, the script:
 - optionally saves a JSON summary if `SAVE_JSON = True`
 - can also display plots directly while running if `SHOW_FIGURES = True`
 
-## Why this structure works better for GitHub
+## Project Value
 
-This repository is strongest when presented as a **statistics computing consolidation project** rather than as a sequence of assignment fragments. The value comes from the combination of:
+The value of the project comes from the combination of:
 
 - simulation
 - visualization
@@ -85,4 +87,3 @@ This repository is strongest when presented as a **statistics computing consolid
 - asymptotic reasoning
 - reproducible scripting
 
-That makes it more readable as a portfolio project and more useful to anyone who wants to understand the code from start to finish.
