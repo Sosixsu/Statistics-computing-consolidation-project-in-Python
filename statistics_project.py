@@ -1,10 +1,6 @@
 """
 Statistics Computing Consolidation Project
 
-This script rebuilds several R-based computational exercises into one structured
-Python workflow. The purpose is to present the material as a coherent GitHub
-project rather than as separate homework fragments.
-
 Each section follows the same sequence:
 1. What statistical question is being studied.
 2. What the code does.
