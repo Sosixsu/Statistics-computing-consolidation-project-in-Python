@@ -42,8 +42,7 @@ The last section studies how the best linear predictor depends on the distributi
 statistics_python_github/
 ├── data/
 │   └── cars.csv
-├── figures/
-├── statistics_homework.py
+├── statistics_project.py
 ├── README.md
 ├── conclusions.md
 ├── requirements.txt
