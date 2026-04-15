@@ -1,0 +1,109 @@
+{
+  "homework1_q4": {
+    "uniform_mean": 0.4917634977840988,
+    "logistic_mean": 2.869911942350881,
+    "laplace_mean": -3.0754905158561807,
+    "binomial_mean": 3.944,
+    "poisson_topcoded_mean": 3.94
+  },
+  "homework2_q4": {
+    "mean_x2_given_x1_above_q40": 5.748777105502328,
+    "mean_x2_given_q40_lt_x1_lt_q80": 5.388142514771553,
+    "empirical_mean_x1": 2.02536937129053,
+    "empirical_mean_x1_from_groups": 2.02536937129053,
+    "total_variance_x1": 2.061602277564125,
+    "within_component_pseudo": 0.08065163594442973,
+    "between_component_unweighted_decile_means": 2.199661728557307,
+    "correlation_original": 0.4619273441556144,
+    "correlation_negative_case": -0.4376761070792506,
+    "lognormal_mean_x2_given_x1_above_q40": 2158.4175657193664,
+    "lognormal_mean_x2_given_q40_lt_x1_lt_q80": 1097.2411735764815
+  },
+  "homework3": {
+    "n": 50,
+    "speed_mean": 15.4,
+    "speed_var": 27.959183673469386,
+    "dist_mean": 42.98,
+    "dist_var": 664.0608163265307,
+    "speed_quantiles": {
+      "0.0": 4.0,
+      "0.25": 12.0,
+      "0.5": 15.0,
+      "0.75": 19.0,
+      "1.0": 25.0
+    },
+    "dist_quantiles": {
+      "0.0": 2.0,
+      "0.25": 26.0,
+      "0.5": 36.0,
+      "0.75": 56.0,
+      "1.0": 120.0
+    },
+    "ols_intercept": -17.579094890511108,
+    "ols_slope": 3.932408759124091,
+    "ols_slope_se": 0.4155127766571225,
+    "ols_slope_t": 9.463989990298373,
+    "ols_slope_ci_95": [
+      3.096964328140326,
+      4.767853190107856
+    ],
+    "ols_r2": 0.6510793807582509,
+    "new_regression_intercept": 13.033775334685837,
+    "new_regression_slope": 1.9966823750205442,
+    "new_regression_r2": 0.41656218818438784,
+    "repeated_simulation_slope_mean": 1.9613092544951365,
+    "repeated_simulation_slope_std": 0.3334741285143272,
+    "repeated_simulation_r2_mean": 0.32482533502576727,
+    "logistic_true_mu": 1.0,
+    "logistic_true_sigma": 3.0,
+    "logistic_mle_mu": 1.0547690954502291,
+    "logistic_mle_sigma": 2.893381286288415,
+    "logistic_optimizer_success": true
+  },
+  "homework4": {
+    "poisson_clt_diagnostics": {
+      "1": {
+        "z_mean": -0.043125,
+        "z_std": 1.0110541639932848
+      },
+      "10": {
+        "z_mean": 0.01996187772981286,
+        "z_std": 0.9751648355576278
+      },
+      "100": {
+        "z_mean": -0.03275000000000005,
+        "z_std": 0.9773223041083399
+      },
+      "1000": {
+        "z_mean": -0.006265262614208615,
+        "z_std": 1.0183539979131553
+      }
+    },
+    "beta_mm_mean": 2.0168133610710144,
+    "beta_mm_var": 0.04348160911504257,
+    "beta_mm_mse": 0.04372081661643183,
+    "beta_mle_mean": 2.0228683876502265,
+    "beta_mle_var": 0.03912926885584964,
+    "beta_mle_mse": 0.03961310274071481,
+    "q5_uniform_beta": [
+      0.016271695272623055,
+      0.9002858093204927
+    ],
+    "q5_beta_beta": [
+      0.008562623162981177,
+      0.9331909613671704
+    ],
+    "q5_normal_small_beta": [
+      -0.10555017344834187,
+      0.9906179624355715
+    ],
+    "q5_normal_large_beta": [
+      -2.271572956101412,
+      1.0730343389156098
+    ],
+    "q5_exponential_beta": [
+      2.109389861341001,
+      -0.27134881568802033
+    ]
+  }
+}

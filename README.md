@@ -1,5 +1,6 @@
-# Statistics-computing-consolidation-project-in-Python
-The repository presents a unified Python workflow that moves across random generation, dependence analysis, regression, asymptotic simulation, and numerical estimation.
+# Statistics Computing Consolidation Project
+
+This repository is organized as a **single statistics computing project** rather than as a list of isolated homework files. The goal is to show how simulation, estimation, regression, asymptotic reasoning, and visualization can be integrated into one reproducible Python workflow.
 
 ## Project idea
 
@@ -86,5 +87,3 @@ This repository is strongest when presented as a **statistics computing consolid
 - reproducible scripting
 
 That makes it more readable as a portfolio project and more useful to anyone who wants to understand the code from start to finish.
-
-
