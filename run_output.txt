@@ -6,7 +6,7 @@ Seed used: 12345
 Figures folder: /mnt/data/statistics_python_github/figures
 
 ==============================================================================
-Homework1 Q4
+1ST SECTION
 ==============================================================================
 - uniform_mean: 0.4917634977840988
 - logistic_mean: 2.869911942350881
@@ -15,7 +15,7 @@ Homework1 Q4
 - poisson_topcoded_mean: 3.94
 
 ==============================================================================
-Homework2 Q4
+2ND SECTION
 ==============================================================================
 - mean_x2_given_x1_above_q40: 5.748777105502328
 - mean_x2_given_q40_lt_x1_lt_q80: 5.388142514771553
@@ -30,7 +30,7 @@ Homework2 Q4
 - lognormal_mean_x2_given_q40_lt_x1_lt_q80: 1097.2411735764815
 
 ==============================================================================
-Homework3
+3RD SECTION
 ==============================================================================
 - n: 50
 - speed_mean: 15.4
@@ -68,7 +68,7 @@ dist_quantiles:
 - logistic_optimizer_success: 1
 
 ==============================================================================
-Homework4
+4TH SECTION
 ==============================================================================
 poisson_clt_diagnostics:
   - 1: {'z_mean': -0.043125, 'z_std': 1.0110541639932848}
@@ -87,20 +87,6 @@ poisson_clt_diagnostics:
 - q5_normal_large_beta: [-2.271572956101412, 1.0730343389156098]
 - q5_exponential_beta: [2.109389861341001, -0.27134881568802033]
 
-==============================================================================
-GENERATED FIGURES
-==============================================================================
-- figures/hw1_q4_distributions.png
-- figures/hw2_q4_bivariate_normal.png
-- figures/hw2_q4_negative_rho.png
-- figures/hw2_q4_lognormal.png
-- figures/hw3_cars_scatter_regression.png
-- figures/hw3_cars_residuals.png
-- figures/hw4_q1_poisson_lln.png
-- figures/hw4_q1_poisson_clt.png
-- figures/hw4_q1_exponential_lln.png
-- figures/hw4_q1_cauchy_medians.png
-- figures/hw4_q1_inid.png
-- figures/hw4_q5_optimal_linear_predictor.png
-
 JSON export skipped. Set SAVE_JSON = True if you also want a JSON copy.
+
+
