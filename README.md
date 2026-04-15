@@ -63,7 +63,7 @@ pip install -r requirements.txt
 Then run:
 
 ```bash
-python statistics_homework.py
+python statistics_project.py
 ```
 
 ## What the script produces
